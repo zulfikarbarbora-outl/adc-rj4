@@ -1,0 +1,1556 @@
+{
+  "fileCount": 155,
+  "files": [
+    {
+      "filename": "4_Bass-48-127-QR7S.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-49-127-HRFQ.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-50-127-QRL0.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-51-127-JTP4.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-52-127-TIYY.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-53-127-42OY.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-54-127-0GSS.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-55-127-P7Y8.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-56-127-N47C.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-57-127-2Z50.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-58-127-OHYK.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-59-127-FC3O.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 60,
+      "rootNote": 59,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-61-127-Z4U5.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-62-127-6Z41.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-63-127-5UGH.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-64-127-WKVM.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-65-127-AC88.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-66-127-OMT6.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-67-127-RD1Q.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-68-127-X1ME.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-69-127-QZZ9.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-70-127-VFEF.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-71-127-1LFV.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-72-127-A1KJ.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-73-127-XMNF.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-74-127-YB4T.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-75-127-KJO0.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-76-127-9151.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-77-127-Z9MO.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 78,
+      "rootNote": 77,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-79-127-0Z3W.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-80-127-BOXR.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-81-127-93B6.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-82-127-N6QF.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-83-127-XNZ9.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-84-127-HTVQ.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-85-127-CUCB.opus",
+      "note": 85,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 85,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-86-127-VOVC.opus",
+      "note": 86,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 86,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-87-127-2TP8.opus",
+      "note": 87,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 87,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-88-127-Z0MG.opus",
+      "note": 88,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 88,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-89-127-3VUL.opus",
+      "note": 89,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 89,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-90-127-0BXN.opus",
+      "note": 90,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 90,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-91-127-G1UC.opus",
+      "note": 91,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 91,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-92-127-CQ5W.opus",
+      "note": 92,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 92,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-93-127-68U2.opus",
+      "note": 93,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 93,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-94-127-E1UG.opus",
+      "note": 94,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 94,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-95-127-J5A2.opus",
+      "note": 95,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 95,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-96-127-276R.opus",
+      "note": 96,
+      "loNote": 96,
+      "hiNote": 96,
+      "rootNote": 96,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-97-127-PM42.opus",
+      "note": 97,
+      "loNote": 97,
+      "hiNote": 97,
+      "rootNote": 97,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-98-127-K5SX.opus",
+      "note": 98,
+      "loNote": 98,
+      "hiNote": 98,
+      "rootNote": 98,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-99-127-1Y1K.opus",
+      "note": 99,
+      "loNote": 99,
+      "hiNote": 99,
+      "rootNote": 99,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-100-127-BZPY.opus",
+      "note": 100,
+      "loNote": 100,
+      "hiNote": 100,
+      "rootNote": 100,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-101-127-SRX4.opus",
+      "note": 101,
+      "loNote": 101,
+      "hiNote": 101,
+      "rootNote": 101,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-102-127-R61W.opus",
+      "note": 102,
+      "loNote": 102,
+      "hiNote": 102,
+      "rootNote": 102,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-103-127-2EE6.opus",
+      "note": 103,
+      "loNote": 103,
+      "hiNote": 103,
+      "rootNote": 103,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-104-127-ZT9D.opus",
+      "note": 104,
+      "loNote": 104,
+      "hiNote": 104,
+      "rootNote": 104,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-105-127-CS0W.opus",
+      "note": 105,
+      "loNote": 105,
+      "hiNote": 105,
+      "rootNote": 105,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-106-127-TBOU.opus",
+      "note": 106,
+      "loNote": 106,
+      "hiNote": 106,
+      "rootNote": 106,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-107-127-KSJR.opus",
+      "note": 107,
+      "loNote": 107,
+      "hiNote": 107,
+      "rootNote": 107,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "4_Bass-108-127-98QA.opus",
+      "note": 108,
+      "loNote": 108,
+      "hiNote": 127,
+      "rootNote": 108,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-48-127_0001.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-49-127_0001.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-50-127.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-51-127.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-52-127.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-53-127.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-54-127.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-55-127.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-56-127.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-57-127.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-58-127.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-59-127.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-60-127.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-61-127.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-62-127.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-63-127.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-64-127.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-65-127.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-66-127.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-67-127.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-68-127.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-69-127.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-70-127.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-71-127.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-72-127.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-73-127.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-74-127.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-75-127.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-76-127.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-77-127.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 78,
+      "rootNote": 77,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-79-127.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-80-127.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-81-127.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-82-127.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-83-127.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-84-127.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-85-127.opus",
+      "note": 85,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 85,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-86-127.opus",
+      "note": 86,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 86,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-87-127.opus",
+      "note": 87,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 87,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-88-127.opus",
+      "note": 88,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 88,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-89-127.opus",
+      "note": 89,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 89,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-90-127.opus",
+      "note": 90,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 90,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-91-127.opus",
+      "note": 91,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 91,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-92-127.opus",
+      "note": 92,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 92,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-93-127.opus",
+      "note": 93,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 93,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-94-127.opus",
+      "note": 94,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 94,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-95-127.opus",
+      "note": 95,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 95,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Noisy_Bass-96-127.opus",
+      "note": 96,
+      "loNote": 96,
+      "hiNote": 96,
+      "rootNote": 96,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-48-127.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-49-127.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-50-127.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-51-127.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-52-127.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-53-127.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-54-127.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-55-127.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-56-127.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-57-127.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-58-127.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-59-127.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-60-127.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-61-127.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-62-127.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-63-127.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-64-127.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-65-127.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-66-127.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-67-127.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-68-127.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-69-127.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-70-127.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-71-127.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-72-127.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-73-127.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 74,
+      "rootNote": 73,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-75-127.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-76-127.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-77-127.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-78-127.opus",
+      "note": 78,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 78,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-79-127.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-80-127.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-81-127.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-82-127.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-83-127.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-84-127.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-85-127.opus",
+      "note": 85,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 85,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-86-127.opus",
+      "note": 86,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 86,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-87-127.opus",
+      "note": 87,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 87,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-88-127.opus",
+      "note": 88,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 88,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-89-127.opus",
+      "note": 89,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 89,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-90-127.opus",
+      "note": 90,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 90,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-91-127.opus",
+      "note": 91,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 91,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-92-127.opus",
+      "note": 92,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 92,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-93-127.opus",
+      "note": 93,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 93,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-94-127.opus",
+      "note": 94,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 94,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-95-127.opus",
+      "note": 95,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 95,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Wibble_Bass-96-127.opus",
+      "note": 96,
+      "loNote": 96,
+      "hiNote": 127,
+      "rootNote": 96,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    }
+  ],
+  "generatedAt": "2026-07-28T07:13:00Z"
+}
